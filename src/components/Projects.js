@@ -18,7 +18,7 @@ const Projects = () => {
     {
       id: 2,
       title: "NASA Images",
-      description: "View and favorire images from NASA. HTML, CSS, and JS web abb that accesses the NASA images and video API.",
+      description: "View and favorite images from NASA. HTML, CSS, and JS web abb that accesses the NASA images and video API.",
       image: p2,
       link: "https://darthelvis7.github.io/nasaphoto/"
     },
