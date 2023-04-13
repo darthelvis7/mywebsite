@@ -9,7 +9,7 @@ const Contact = () => {
       <h2 className="contact-title">Contact Me</h2>
       <p className="contact-tagline">Let's build something great together!</p>
       <div className="email">
-        <a href="mailto:example@gmail.com">
+        <a href="mailto:elvis426@gmail.com">
           <div className="contact-email">
           <SiGmail className="contact-icon-gmail" />
             elvis426@gmail.com
